@@ -1,5 +1,5 @@
 const = dictionary{
-
+to access an object as a variable you need to use [] otherwise it will look for a literal .variable which doesn't exist.
 }
 
 function drawDictionary(){
