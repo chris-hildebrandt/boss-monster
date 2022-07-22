@@ -18,4 +18,13 @@
   
 // }
 
-const boss 
+const hero = {
+  health: 100,
+  strength: 5,
+}
+
+const boss = {
+  health: 100,
+  strength: 5,
+}
+
