@@ -1,4 +1,26 @@
+/* font-family: 'Bungee', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'DotGothic16', sans-serif;
+font-family: 'Grenze Gotisch', cursive;
+font-family: 'IM Fell English SC', serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Wendy One', sans-serif; */
+
 body {
   background-color: chartreuse;
-  background-image: image();
+}
+
+h1 {
+  /* font-family: 'Bungee', cursive; */
+  /* font-family: 'DotGothic16', sans-serif; */
+  /* font-family: 'Grenze Gotisch', cursive; */
+  /* font-family: 'IM Fell English SC', serif; */
+  font-family: 'Press Start 2P', cursive;
+}
+
+main {
+  background-image: url(http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-37.gif);
+  background-position: center;
+  background-size: cover;
+  min-height: 89vh;
 }
