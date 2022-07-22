@@ -28,3 +28,4 @@ const boss = {
   strength: 5,
 }
 
+set innertext of progressbar
